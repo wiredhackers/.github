@@ -12,5 +12,3 @@
 - If you like this repo, be sure to ⭐ it.
 
 ## Connect
-
-## Thanks to all contributors 
