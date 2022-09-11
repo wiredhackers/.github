@@ -4,7 +4,7 @@
 
 ## Useful resources
 
-🍿 We will be sharing useful resources to help you get started with any tech role. 
+🍿 [wiredtoolkit](https://wiredtoolkit.tk) : It is being regularly updated with new content. 
 
 ## Contribution
 - If you want to contribute, This repository is in build. Feel free to do it.
